@@ -5,6 +5,9 @@ A data lakehouse with medallion architecture that use minio, apache spark, apach
 
 This repository contains a Data Lakehouse with Medallion architecture that uses MinIO for object storage, Apache Spark for data processing, Apache Flink for data streaming and Cloud Function in Python for data ingestion and data processing. This repository is a proof of concept and is not intended for production use.
 
+## Requirements
+- At least 4Gb RAM of Memory on Linux
+
 ## Todo 
 
 
